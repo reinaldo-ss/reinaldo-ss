@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Reinaldo😁
+### Bem-vindo(a) ao perfil do Reinaldo😁
 
  <div>
    <a href="https://github.com/reinaldo-ss">
@@ -23,7 +23,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wor
  
 <br>
  
-## Redes Sociais!
+### Redes Sociais!
  
 <div> 
   <a href="https://instagram.com/_kingnald" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
