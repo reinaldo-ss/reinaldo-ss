@@ -13,15 +13,7 @@
   <img align="" alt="CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
 
   <img align="" alt="Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-</div>
- 
-<br>
- 
+</div> 
 ### Redes Sociais!
- 
-<div> 
-  <a href="https://instagram.com/_kingnald" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  
-  <a href="https://www.linkedin.com/in/reinaldo-silva-santana-filho" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  
-</div>
+   <a href="https://instagram.com/_kingnald" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+    
