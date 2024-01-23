@@ -14,6 +14,8 @@
 
   <img align="" alt="Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div> 
+
 ### Redes Sociais!
+
    <a href="https://instagram.com/_kingnald" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     
